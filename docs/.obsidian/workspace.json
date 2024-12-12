@@ -11,9 +11,11 @@
             "id": "e988c4b0c4e5adb9",
             "type": "leaf",
             "state": {
-              "type": "audio",
+              "type": "markdown",
               "state": {
-                "file": "media/9月2日你是学法的片段.mp3"
+                "file": "index.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "media/9月2日你是学法的片段.mp3",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "media/9月2日你是学法的片段.mp3",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "media/9月2日你是学法的片段.mp3"
+                "file": "index.md"
               }
             }
           }
@@ -144,11 +146,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1693e958b8fcabee",
+  "active": "e988c4b0c4e5adb9",
   "lastOpenFiles": [
-    "index.md",
-    "公司文件/公司文件.md",
     "media/9月2日你是学法的片段.mp3",
+    "公司文件/公司文件.md",
+    "index.md",
     "imgs/Pasted image 20241212102043.png",
     "imgs/9月2日早，你是学法的片段 1.mp3",
     "事实回顾/事件回顾.md"
